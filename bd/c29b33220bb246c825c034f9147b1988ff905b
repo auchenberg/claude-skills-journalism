@@ -1,0 +1,14 @@
+dev-toolkit/skills/mobile-debugging/SKILL.md
+  h_1f2e42d76557d4 291-294
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "bdc29b33220bb246c825c034f9147b1988ff905b",
+  "prompts": {},
+  "humans": {
+    "h_1f2e42d76557d4": {
+      "author": "Kenneth Auchenberg <kenneth@auchenberg.dk>"
+    }
+  }
+}
